@@ -116,9 +116,6 @@ I love to create design which speaks, Keep it clean, minimal and simple.
     <li>
         Pre loader
     </li>
-    <li>
-        Info graphic
-    </li>
 </ul>
 </Description>
 <Description>
@@ -128,7 +125,7 @@ I love to create design which speaks, Keep it clean, minimal and simple.
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={40} /> Tools 
+    <Develope width={40} height={40} /> Playing with 
 </Title>
 <Description>
 
