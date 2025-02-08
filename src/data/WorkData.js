@@ -45,7 +45,7 @@ export const Work = [
         description:"It is an engaging explainer ad animation for Porter Logistic Service, , highlighting seamless delivery solutions with smooth motion graphics and clear storytelling.",
         tags:[],
         
-        demo:"https://youtu.be/wCKh-mCyXAk?si=V0SSqP140p_m08rJ",
+        demo:"https://youtube.com/shorts/cVzRe2l024M?si=Y7xY77U-naZa359l",
         github:""
        
     }
